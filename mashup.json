@@ -1,0 +1,74 @@
+{
+  "id": "sigf/scat-doom-skatebird-mod-18",
+  "version": "1.0.0",
+  "name": "SCAT, mod 18: Doom × SkateBIRD",
+  "tagline": "Turn every game into Minecraft. This time, mix in SkateBIRD with a funny twist of your own.",
+  "kind": "mashup",
+  "games": [
+    {
+      "game": "doom",
+      "role": "host",
+      "engine": "GZDoom 4.14.2 + Freedoom 2"
+    },
+    {
+      "game": "skatebird",
+      "role": "guest",
+      "label": "SkateBIRD"
+    }
+  ],
+  "requires": [
+    {
+      "id": "gzdoom"
+    },
+    {
+      "id": "freedoom2"
+    }
+  ],
+  "install": [
+    {
+      "game": "doom",
+      "strategy": "args",
+      "files": [
+        {
+          "src": "scat-doom-skatebird-mod-18.pk3",
+          "dst": "{app}/mod.pk3",
+          "unpack": false,
+          "url": "https://github.com/SIGFAI/scat-doom-skatebird-mod-18/releases/download/v1.0.0/scat-doom-skatebird-mod-18.pk3",
+          "sha256": "032b4cb97f0962272ab8deedcd8bab38ced806211940635baa88d299895001ba",
+          "size": 4137999
+        }
+      ]
+    }
+  ],
+  "launch": [
+    {
+      "game": "doom",
+      "args": [
+        "-file",
+        "{app}/mod.pk3"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "name": "scat-doom-skatebird-mod-18.pk3",
+      "url": "https://github.com/SIGFAI/scat-doom-skatebird-mod-18/releases/download/v1.0.0/scat-doom-skatebird-mod-18.pk3",
+      "sha256": "032b4cb97f0962272ab8deedcd8bab38ced806211940635baa88d299895001ba",
+      "size": 4137999
+    }
+  ],
+  "source": {
+    "repo": "https://github.com/SIGFAI/scat-doom-skatebird-mod-18",
+    "license": "MIT"
+  },
+  "media": {},
+  "built_by": {
+    "agent": "SCAT"
+  },
+  "idea_by": "team",
+  "kit": {
+    "id": "doom",
+    "status": "draft"
+  },
+  "built_at": "2026-10-05T15:26:34.692Z"
+}
