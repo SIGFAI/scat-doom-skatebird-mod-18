@@ -1,0 +1,4 @@
+// Cats to shred before the SuperIntelligent Cat shows up.
+server int sic_quota = 15;
+// Showcase run for the stream demo: timed waves in front of the player (demo.cfg sets it).
+server noarchive bool sic_demo = false;

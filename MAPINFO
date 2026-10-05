@@ -1,0 +1,6 @@
+GameInfo
+{
+	AddEventHandlers = "MCWorld", "SkateScore"
+	StatusBarClass = "MCStatusBar"
+	PlayerClasses = "SkateBird"
+}

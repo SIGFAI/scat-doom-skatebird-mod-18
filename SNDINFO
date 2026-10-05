@@ -1,0 +1,35 @@
+// Generated with fal (ElevenLabs SFX), Minetest Game sounds (see CREDITS.md)
+cat/sight	sounds/cat_sight.ogg
+cat/pain	sounds/cat_pain.ogg
+cat/death	sounds/cat_death.ogg
+cat/throw	sounds/cat_throw.ogg
+fish/splat	sounds/fish_splat.ogg
+xp/orb		sounds/xp_orb.ogg
+xp/levelup	sounds/level_up.ogg
+board/pop	sounds/board_pop.ogg
+board/bounce	sounds/board_bounce.ogg
+board/hit	sounds/board_hit.ogg
+bird/hurt	sounds/bird_hurt.ogg
+skate/cheer	sounds/trick_cheer.ogg
+creeper/fuse	sounds/creeper_fuse.ogg
+boss/laugh	sounds/boss_laugh.ogg
+boss/laser	sounds/boss_laser.ogg
+boss/swat	sounds/boss_swat.ogg
+boss/sight	sounds/boss_sight.ogg
+mc/poof		sounds/mt_poof.ogg
+mc/explode	sounds/mt_explode.ogg
+mc/fuse		sounds/mt_ignite.ogg
+mc/dig		sounds/mt_dig_cracky.ogg
+mc/place	sounds/mt_place_hard.ogg
+mc/metal	sounds/mt_dug_metal.ogg
+
+$playersound	skatebird	male	*pain100	bird/hurt
+$playersound	skatebird	male	*pain75		bird/hurt
+$playersound	skatebird	male	*pain50		bird/hurt
+$playersound	skatebird	male	*pain25		bird/hurt
+$playersound	skatebird	male	*death		bird/hurt
+$playersound	skatebird	male	*xdeath		bird/hurt
+$playersound	skatebird	male	*jump		board/pop
+$playersound	skatebird	male	*land		board/bounce
+$playersound	skatebird	male	*grunt		board/bounce
+$playersound	skatebird	male	*usefail	mc/place

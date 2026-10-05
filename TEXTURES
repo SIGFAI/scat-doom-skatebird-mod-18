@@ -1,0 +1,437 @@
+// Minecraft-like blocks: 16 px textures (stored 8x for crisp pixels) drawn 32 map units wide (a player is ~1.75 blocks tall, like Minecraft).
+Texture "MCACAC", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCACAC.png", 0, 0
+}
+Texture "MCBOOKS", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCBOOKS.png", 0, 0
+}
+Texture "MCBRICK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCBRICK.png", 0, 0
+}
+Texture "MCCLAY", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCCLAY.png", 0, 0
+}
+Texture "MCCLAYB", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCCLAYB.png", 0, 0
+}
+Texture "MCCOAL", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCCOAL.png", 0, 0
+}
+Texture "MCCOBBLE", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCCOBBLE.png", 0, 0
+}
+Texture "MCDBRICK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCDBRICK.png", 0, 0
+}
+Texture "MCDCOB", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCDCOB.png", 0, 0
+}
+Texture "MCDIAM", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCDIAM.png", 0, 0
+}
+Texture "MCDIRT", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCDIRT.png", 0, 0
+}
+Texture "MCDOOR", 128, 256
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCDOOR.png", 0, 0
+}
+Texture "MCDSTONE", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCDSTONE.png", 0, 0
+}
+Texture "MCFURN", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCFURN.png", 0, 0
+}
+Texture "MCGLASS", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCGLASS.png", 0, 0
+}
+Texture "MCGOLD", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCGOLD.png", 0, 0
+}
+Texture "MCGRASS", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCGRASS.png", 0, 0
+}
+Texture "MCGRAVEL", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCGRAVEL.png", 0, 0
+}
+Texture "MCGRSIDE", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCGRSIDE.png", 0, 0
+}
+Texture "MCICE", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCICE.png", 0, 0
+}
+Texture "MCIRON", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCIRON.png", 0, 0
+}
+Texture "MCLAMP", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLAMP.png", 0, 0
+}
+Texture "MCLAVA", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLAVA.png", 0, 0
+}
+Texture "MCLAVA02", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLAVA02.png", 0, 0
+}
+Texture "MCLAVA03", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLAVA03.png", 0, 0
+}
+Texture "MCLAVA04", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLAVA04.png", 0, 0
+}
+Texture "MCLAVA05", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLAVA05.png", 0, 0
+}
+Texture "MCLAVA06", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLAVA06.png", 0, 0
+}
+Texture "MCLAVA07", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLAVA07.png", 0, 0
+}
+Texture "MCLAVA08", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLAVA08.png", 0, 0
+}
+Texture "MCLEAVES", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLEAVES.png", 0, 0
+}
+Texture "MCLOG", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLOG.png", 0, 0
+}
+Texture "MCLOGTOP", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCLOGTOP.png", 0, 0
+}
+Texture "MCMOSSY", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCMOSSY.png", 0, 0
+}
+Texture "MCOBBRK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCOBBRK.png", 0, 0
+}
+Texture "MCOBSID", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCOBSID.png", 0, 0
+}
+Texture "MCPINE", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCPINE.png", 0, 0
+}
+Texture "MCPLANK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCPLANK.png", 0, 0
+}
+Texture "MCPLANK2", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCPLANK2.png", 0, 0
+}
+Texture "MCSAND", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCSAND.png", 0, 0
+}
+Texture "MCSBLK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCSBLK.png", 0, 0
+}
+Texture "MCSNOW", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCSNOW.png", 0, 0
+}
+Texture "MCSSTONE", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCSSTONE.png", 0, 0
+}
+Texture "MCSTBRK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCSTBRK.png", 0, 0
+}
+Texture "MCSTEEL", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCSTEEL.png", 0, 0
+}
+Texture "MCSTONE", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCSTONE.png", 0, 0
+}
+Texture "MCTNTSD", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCTNTSD.png", 0, 0
+}
+Texture "MCTNTTP", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCTNTTP.png", 0, 0
+}
+Texture "MCWATE10", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE10.png", 0, 0
+}
+Texture "MCWATE11", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE11.png", 0, 0
+}
+Texture "MCWATE12", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE12.png", 0, 0
+}
+Texture "MCWATE13", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE13.png", 0, 0
+}
+Texture "MCWATE14", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE14.png", 0, 0
+}
+Texture "MCWATE15", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE15.png", 0, 0
+}
+Texture "MCWATE16", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE16.png", 0, 0
+}
+Texture "MCWATE2", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE2.png", 0, 0
+}
+Texture "MCWATE3", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE3.png", 0, 0
+}
+Texture "MCWATE4", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE4.png", 0, 0
+}
+Texture "MCWATE5", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE5.png", 0, 0
+}
+Texture "MCWATE6", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE6.png", 0, 0
+}
+Texture "MCWATE7", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE7.png", 0, 0
+}
+Texture "MCWATE8", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE8.png", 0, 0
+}
+Texture "MCWATE9", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATE9.png", 0, 0
+}
+Texture "MCWATER", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWATER.png", 0, 0
+}
+Texture "MCWOOL", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWOOL.png", 0, 0
+}
+Texture "MCWOOLB", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWOOLB.png", 0, 0
+}
+Texture "MCWOOLY", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "blocks/MCWOOLY.png", 0, 0
+}
+Texture "MCSKY", 1024, 128
+{
+	Patch "blocks/MCSKY.png", 0, 0
+}
+
+// First-person Kickflip Deck: stored 3x (crisp pixels), drawn at Doom size.
+Sprite "DKHDA0", 564, 141
+{
+	XScale 3
+	YScale 3
+	Offset -174, -363
+	Patch "hud/DKHDA0.png", 0, 0
+}
+Sprite "DKHDB0", 603, 183
+{
+	XScale 3
+	YScale 3
+	Offset -213, -321
+	Patch "hud/DKHDB0.png", 0, 0
+}
+Sprite "DKHDC0", 522, 315
+{
+	XScale 3
+	YScale 3
+	Offset -192, -189
+	Patch "hud/DKHDC0.png", 0, 0
+}
+Sprite "DKHDD0", 504, 84
+{
+	XScale 3
+	YScale 3
+	Offset -204, -420
+	Patch "hud/DKHDD0.png", 0, 0
+}

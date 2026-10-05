@@ -1,0 +1,27 @@
+// Flowing water and lava (Minetest Game animated strips, CC BY-SA 3.0)
+texture MCWATER
+	pic MCWATER tics 3
+	pic MCWATE2 tics 3
+	pic MCWATE3 tics 3
+	pic MCWATE4 tics 3
+	pic MCWATE5 tics 3
+	pic MCWATE6 tics 3
+	pic MCWATE7 tics 3
+	pic MCWATE8 tics 3
+	pic MCWATE9 tics 3
+	pic MCWATE10 tics 3
+	pic MCWATE11 tics 3
+	pic MCWATE12 tics 3
+	pic MCWATE13 tics 3
+	pic MCWATE14 tics 3
+	pic MCWATE15 tics 3
+	pic MCWATE16 tics 3
+texture MCLAVA
+	pic MCLAVA tics 3
+	pic MCLAVA02 tics 3
+	pic MCLAVA03 tics 3
+	pic MCLAVA04 tics 3
+	pic MCLAVA05 tics 3
+	pic MCLAVA06 tics 3
+	pic MCLAVA07 tics 3
+	pic MCLAVA08 tics 3

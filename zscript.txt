@@ -1,0 +1,11 @@
+version "4.14"
+
+#include "zscript/blockmap.zs"
+#include "zscript/world.zs"
+#include "zscript/fx.zs"
+#include "zscript/cats.zs"
+#include "zscript/skate.zs"
+#include "zscript/score.zs"
+#include "zscript/hud.zs"
+#include "zscript/boss.zs"
+#include "zscript/tnt.zs"

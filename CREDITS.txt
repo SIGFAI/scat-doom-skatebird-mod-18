@@ -1,0 +1,47 @@
+# SuperIntelligent Cat: credits
+
+Original code (ZScript), the 3D-to-sprite renders and the sky were made for this mod. Reused assets below.
+
+## 3D models (rendered into the 8-angle Doom sprites)
+- **Cube Pets** (cat, parrot, chick, fish models + colormap texture) by **Kenney** (www.kenney.nl), **CC0 1.0**.
+  https://kenney.nl/assets/cube-pets. Used for every cat, the boss body, the skating birds, the player's wings and the thrown fish;
+  the colormap was recoloured for the ginger, black, Siamese, creeper, boss and blue-bird variants.
+- **Mini Skate** (skateboard model) by **Kenney** (www.kenney.nl), **CC0 1.0**. https://kenney.nl/assets/mini-skate.
+  The thrown 360-flip board, the first-person board and the birds' fingerboards.
+
+## Block textures, effects and HUD art: Minetest Game (github.com/minetest/minetest_game)
+Licence **CC BY-SA 3.0** unless noted (http://creativecommons.org/licenses/by-sa/3.0/). Changes: upscaled 8x (nearest),
+ore and grass overlays composited, first animation frame cropped, transparency flattened. The derived block PNGs
+(mod/blocks/) are shared under CC BY-SA 3.0.
+- default_grass (MCGRASS): TumeniNodes; default_dirt: random-geek (from Neuromancer); default_grass_side: paramat (from TumeniNodes)
+- default_stone (+ ore backgrounds): Cisoun; default_cobble, default_mossycobble, default_furnace_front: Neuromancer (from Brane praefect)
+- default_wood: BlockMen; default_junglewood, default_stone_brick, default_pine_wood: paramat; default_tree, default_tree_top, default_leaves: Cisoun
+- default_brick: Calinou; default_sand, default_desert_stone: VanessaE; default_gravel: sofar (CC0 1.0); default_glass: Krock (CC0 1.0)
+- default_bookshelf, default_clay, default_sandstone, default_mineral_iron, default_mineral_coal: celeron55 (Perttu Ahola)
+- default_obsidian: jojoa1997; default_lava_source_animated: BlockMen; default_water_source_animated: RealBadAngel
+- default_mineral_gold: PilzAdam; default_mineral_diamond: InfinityProject; default_steel_block: kilbith; default_snow: Gambit; default_ice: asl97
+- default_meselamp, default_desert_stone_brick, default_obsidian_brick, default_stone_block, default_acacia_wood, default_clay_brick,
+  default_desert_cobble (TumeniNodes, from brunob.santos): Minetest Game contributors as listed in mods/default/README.md
+- tnt_side, tnt_top, tnt_bottom, tnt_boom: BlockMen; tnt_smoke: ShadowNinja (TNT block, explosion flash and smoke)
+- doors_door_wood: Fernando Zapata (UV layout by sofar, paramat, red-001)
+- wool_red, wool_blue, wool_yellow: Cisoun
+- default_item_smoke (death poof): Ferk, **CC0 1.0**
+- heart.png (HUD hearts) and bubble.png (recoloured into the XP orb): An0n3m0us, from KevDoy / BlockMen
+
+## Sounds
+- Minetest Game: tnt_explode.ogg (TumeniNodes, from steveygos93, **CC0 1.0**), tnt_ignite.ogg (TumeniNodes, from theneedle.tv, **CC0 1.0**),
+  default_item_smoke.ogg (Ferk, **CC0 1.0**), default_dug_metal.1.ogg (qubodup, **CC0**), default_dig_cracky.1.ogg (Benboncan, **CC BY 3.0**),
+  default_place_node_hard.1.ogg (Mito551, **CC BY-SA 3.0**)
+- Generated for this mod with fal (ElevenLabs Sound Effects v2): cat meow / hiss / yowl / throw, fish splat, XP orb, level up,
+  skateboard pop / bounce / hit, bird squawk, creeper fuse, boss roar / laugh / laser / swat, skater cheer.
+- Music: lo-fi skate track generated for this mod with fal (ElevenLabs Music).
+
+## Font
+- **Monocraft** v4.2.1 by **Idrees Hassan** (IdreesInc), **SIL Open Font License 1.1**, https://github.com/IdreesInc/Monocraft.
+  Rasterised into the bitmap HUD font (mod/fonts/mcfont/, with a baked drop shadow); licence text in mod/OFL.txt.
+
+## Generated
+- The boss's voxel brain: concept image by fal (Nano Banana 2), turned into a 3D model with fal (Trellis 2), then rendered with the cat.
+
+## Game
+- Runs on GZDoom 4.14 with Freedoom: Phase 2 (its textures are only read to pick matching blocks; none are shipped).
